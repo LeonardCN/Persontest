@@ -8,7 +8,7 @@ int main
   printf("输出偶数%d\n",i)
   i++;
   }
-  printf("hello github");
+  printf("hello github\n");
   return 0；
 }
 
